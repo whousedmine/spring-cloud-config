@@ -1,2 +1,2 @@
 hello:
-  world: spring-cloud-config
+  world: 'spring-cloud-config'
